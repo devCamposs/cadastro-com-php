@@ -41,7 +41,7 @@ mysqli_close($conexao);
         </a>
       </ul>
     </nav>
-    <section class>
+    <section class="processa">
       <h1>Confirmação cadastro</h1>
       <hr><br><br>
 
